@@ -1,0 +1,5 @@
+20 - 07 - 2021 08:32:17 AM :CRITICAL:  Critical information 
+20 - 07 - 2021 08:32:17 AM :ERROR:  Error message 
+20 - 07 - 2021 08:32:17 AM :WARNING:  Warning message 
+20 - 07 - 2021 08:32:17 AM :DEBUG:  Debug Message 
+20 - 07 - 2021 08:32:17 AM :INFO: Information

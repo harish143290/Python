@@ -1,0 +1,10 @@
+(asctime)s :CRITICAL:  Critical information 
+(asctime)s :ERROR:  Error message 
+(asctime)s :WARNING:  Warning message 
+(asctime)s :DEBUG:  Debug Message 
+(asctime)s :INFO: Information
+2021-07-20 08:26:13,745 :CRITICAL:  Critical information 
+2021-07-20 08:26:13,771 :ERROR:  Error message 
+2021-07-20 08:26:13,771 :WARNING:  Warning message 
+2021-07-20 08:26:13,771 :DEBUG:  Debug Message 
+2021-07-20 08:26:13,771 :INFO: Information

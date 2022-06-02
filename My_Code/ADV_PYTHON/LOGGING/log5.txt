@@ -1,0 +1,10 @@
+CRITICAL
+ERROR
+WARNING
+DEBUG
+INFO
+CRITICAL:  Critical information 
+ERROR:  Error message 
+WARNING:  Warning message 
+DEBUG:  Debug Message 
+INFO: Information

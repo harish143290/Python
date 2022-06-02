@@ -1,0 +1,18 @@
+20 / 07 / 2021 08:41:17 AM:INFO: ============================
+20 / 07 / 2021 08:41:17 AM:INFO: Request From Client .....
+20 / 07 / 2021 08:41:23 AM:INFO: ============================
+20 / 07 / 2021 08:41:23 AM:INFO: Request From Client .....
+20 / 07 / 2021 08:41:27 AM:ERROR: invalid literal for int() with base 10: '2.2'
+Traceback (most recent call last):
+  File "E:/2021/PYTHON_7AM_APR/ADV_PYTHON/LOGGING/TestingWithApp.py", line 11, in <module>
+    y=int( input("Enter a number : ") )
+ValueError: invalid literal for int() with base 10: '2.2'
+20 / 07 / 2021 08:41:33 AM:INFO: ============================
+20 / 07 / 2021 08:41:33 AM:INFO: Request From Client .....
+20 / 07 / 2021 08:41:36 AM:ERROR: division by zero
+Traceback (most recent call last):
+  File "E:/2021/PYTHON_7AM_APR/ADV_PYTHON/LOGGING/TestingWithApp.py", line 12, in <module>
+    z=x/y
+ZeroDivisionError: division by zero
+20 / 07 / 2021 08:41:39 AM:INFO: ============================
+20 / 07 / 2021 08:41:39 AM:INFO: Request From Client .....
